@@ -19,7 +19,6 @@
 
 <br /><br />
 
-<img src="https://komarev.com/ghpvc/?username=AmaanaliMotiwala0109&label=Profile%20views&color=0d9488&style=flat-square" alt="GitHub profile views" />
 
 </div>
 
