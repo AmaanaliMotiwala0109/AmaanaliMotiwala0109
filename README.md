@@ -4,10 +4,10 @@
 
 B.Tech Computer Science Engineering (Cyber Security), Parul University · Expected 2027 · Vadodara, Gujarat, India
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaanali-motiwala-67208628a/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-0d1117?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/amaanalimotiwala)
-[![Email](https://img.shields.io/badge/Email-amaanalimotiwala%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amaanalimotiwala@gmail.com)
-[![Repositories](https://img.shields.io/badge/GitHub-Repositories-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmaanaliMotiwala0109?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaanali-motiwala-67208628a/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-0d1117?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/amaanalimotiwala)
+[![Email](https://img.shields.io/badge/Email-amaanalimotiwala%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=white)](mailto:amaanalimotiwala@gmail.com)
+[![Repositories](https://img.shields.io/badge/GitHub-Repositories-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/AmaanaliMotiwala0109?tab=repositories)
 
 [About](#about-me) · [Skills](#technical-skills) · [Projects](#featured-projects) · [Credentials](#certifications-and-digital-badges) · [Labs](#hands-on-labs) · [Contact](#contact)
 
