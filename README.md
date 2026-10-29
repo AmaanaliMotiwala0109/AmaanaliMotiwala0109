@@ -4,9 +4,12 @@
 
 B.Tech Computer Science Engineering (Cyber Security), Parul University · Expected 2027 · Vadodara, Gujarat, India
 
-[LinkedIn](https://www.linkedin.com/in/amaanali-motiwala-67208628a/) · [TryHackMe](https://tryhackme.com/p/amaanalimotiwala) · [Email](mailto:YOUR_EMAIL@example.com) · [Repositories](https://github.com/AmaanaliMotiwala0109?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaanali-motiwala-67208628a/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-0d1117?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/amaanalimotiwala)
+[![Email](https://img.shields.io/badge/Email-amaanalimotiwala%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amaanalimotiwala@gmail.com)
+[![Repositories](https://img.shields.io/badge/GitHub-Repositories-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmaanaliMotiwala0109?tab=repositories)
 
-[About](#about-me) · [Skills](#technical-skills) · [Projects](#featured-projects) · [Certifications](#certifications) · [Labs](#hands-on-labs) · [Contact](#contact)
+[About](#about-me) · [Skills](#technical-skills) · [Projects](#featured-projects) · [Credentials](#certifications-and-digital-badges) · [Labs](#hands-on-labs) · [Contact](#contact)
 
 ---
 
@@ -61,17 +64,25 @@ Python CLI that scans local AWS IAM policy JSON files for wildcard actions, priv
 Python and Streamlit framework that runs an adversarial prompt dataset against a local Llama 3 model through Ollama, classifies responses with heuristics, maps results to the OWASP LLM Top 10, and generates PDF reports. The documented run covers 1,320 evaluations of one model configuration, so results should not be generalized to other models.
 `Python` `Ollama` `Streamlit` `OWASP LLM Top 10`
 
-## Certifications
+## Certifications and Digital Badges
+
+**Certifications**
 
 | Credential | Issuer |
 |:--|:--|
-| Cisco Certified Network Associate (CCNA) | Cisco |
 | AWS Certified Cloud Practitioner (CLF-C02) | Amazon Web Services |
 | Certified SOC Analyst (CSA) | EC-Council |
-| Network Security Fundamentals | Palo Alto Networks |
 | Oracle Cloud Infrastructure (2025) | Oracle |
 
-<!-- TODO before publishing: add a public verification link for each credential (Credly, AWS, EC-Council, Oracle) and replace "Oracle Cloud Infrastructure (2025)" with the exact certification name. Remove any row you cannot verify. -->
+**Digital badges and training**
+
+| Credential | Issuer |
+|:--|:--|
+| CCNA digital badge | Cisco |
+| Network Security Fundamentals | Palo Alto Networks |
+| SOC Level 1 learning path | TryHackMe |
+
+<!-- TODO before publishing: add a public verification link (Credly, AWS, EC-Council, Oracle, Cisco) for each entry and replace "Oracle Cloud Infrastructure (2025)" with the exact credential name. Remove any entry you cannot verify. -->
 
 ## Hands-on Labs
 
@@ -83,23 +94,21 @@ Python and Streamlit framework that runs an adversarial prompt dataset against a
 - **[Windows Detection Engineering Lab](https://github.com/AmaanaliMotiwala0109/windows-detection-engineering-lab)** (in progress). Sigma rules mapped to MITRE ATT&CK, converted to Splunk SPL, with CI linting.
 -->
 
-## GitHub Statistics
+## GitHub Overview
 
-<p>
-  <a href="https://github.com/AmaanaliMotiwala0109?tab=repositories">
-    <img height="150" alt="GitHub statistics for AmaanaliMotiwala0109" src="https://github-readme-stats.vercel.app/api?username=AmaanaliMotiwala0109&show_icons=true&hide_border=true&theme=github_dark&cache_seconds=86400" />
-  </a>
-  <a href="https://github.com/AmaanaliMotiwala0109?tab=repositories">
-    <img height="150" alt="Most used languages in public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaanaliMotiwala0109&layout=compact&hide_border=true&theme=github_dark&cache_seconds=86400" />
-  </a>
-</p>
+| Repository | Focus | Evidence in the repository |
+|:--|:--|:--|
+| [ccna-enterprise-network-ospf](https://github.com/AmaanaliMotiwala0109/ccna-enterprise-network-ospf) | Routing and resilience | Device configs, addressing plan, topology, failover test screenshots |
+| [Enterprise-Office-Network-Design](https://github.com/AmaanaliMotiwala0109/Enterprise-Office-Network-Design) | Switching and access control | Packet Tracer file, topology, device configs, verification commands |
+| [cloud-security-policy-analyzer](https://github.com/AmaanaliMotiwala0109/cloud-security-policy-analyzer) | Cloud security (AWS IAM) | Python source, sample policies, sample output |
+| [RedLens-LLM-Security](https://github.com/AmaanaliMotiwala0109/RedLens-LLM-Security) | AI security | Dataset, metrics tests, dashboard, PDF report |
 
-Cards are served by a third-party service and may occasionally not load. Language percentages reflect repository contents, not proficiency. [Browse all repositories](https://github.com/AmaanaliMotiwala0109?tab=repositories).
+[Browse all repositories](https://github.com/AmaanaliMotiwala0109?tab=repositories)
 
 ## Contact
 
 - LinkedIn: [amaanali-motiwala](https://www.linkedin.com/in/amaanali-motiwala-67208628a/)
 - TryHackMe: [amaanalimotiwala](https://tryhackme.com/p/amaanalimotiwala)
-- Email: [YOUR_EMAIL@example.com](mailto:YOUR_EMAIL@example.com)
+- Email: [amaanalimotiwala@gmail.com](mailto:amaanalimotiwala@gmail.com)
 
 All security testing in my projects is performed in controlled lab environments or on systems I own.
