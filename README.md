@@ -1,114 +1,146 @@
-# Amaanali Motiwala
+<div align="center">
 
-**Cybersecurity student focused on network security, SOC operations, and cloud security**
-
-B.Tech Computer Science Engineering (Cyber Security), Parul University · Expected 2027 · Vadodara, Gujarat, India
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amaanali-motiwala-67208628a/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-0d1117?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/amaanalimotiwala)
-[![Email](https://img.shields.io/badge/Email-amaanalimotiwala%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=white)](mailto:amaanalimotiwala@gmail.com)
-[![Repositories](https://img.shields.io/badge/GitHub-Repositories-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/AmaanaliMotiwala0109?tab=repositories)
-
-[About](#about-me) · [Skills](#technical-skills) · [Projects](#featured-projects) · [Credentials](#certifications-and-digital-badges) · [Labs](#hands-on-labs) · [Contact](#contact)
-
----
-
-## About Me
-
-I build hands-on projects in enterprise networking, SIEM-based threat detection, AWS IAM security, and LLM security testing. I am looking for internship and entry-level roles in network security, SOC / blue team, and cloud security.
-
-- **Network security and engineering:** Cisco routing and switching, OSPF, VLANs, ACLs, failover testing
-- **SOC and blue team:** Splunk, Wazuh, log analysis, incident response, threat detection
-- **Cloud security:** AWS IAM misconfiguration analysis, Oracle Cloud Infrastructure
-- **Security automation:** Python tools with documented rules, tests, and sample data
-
-**Experience:** Cybersecurity Intern, ShadowFox (Sep–Oct 2024). Reconnaissance, port scanning, and traffic analysis exercises in lab environments, including Wireshark.
-
-## Technical Skills
-
+<table width="100%">
+<tr>
+<td width="68%" valign="middle">
+<h1>Amaanali Motiwala</h1>
+<h3>Cybersecurity Student · Network Security · SOC Operations · Cloud Security</h3>
+<p>B.Tech Computer Science Engineering (Cyber Security)<br />Parul University · Expected graduation 2027 · Vadodara, Gujarat, India</p>
 <p>
-  <img src="https://skillicons.dev/icons?i=python,aws,linux,bash,git,github&theme=dark" alt="Python, AWS, Linux, Bash, Git, GitHub" />
+<a href="https://www.linkedin.com/in/amaanali-motiwala-67208628a/">LinkedIn</a> ·
+<a href="https://tryhackme.com/p/amaanalimotiwala">TryHackMe</a> ·
+<a href="mailto:amaanalimotiwala@gmail.com">Email</a> ·
+<a href="https://github.com/AmaanaliMotiwala0109?tab=repositories">Repositories</a>
 </p>
+</td>
+<td width="32%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/231073449?v=4" width="170" alt="Amaanali Motiwala" />
+</td>
+</tr>
+</table>
 
-| Area | Tools and concepts |
-|:--|:--|
-| Networking | Cisco Packet Tracer, TCP/IP, VLANs, OSPF, VLSM, ACLs, DHCP, SSH, routing troubleshooting |
-| Security operations | Splunk, Wazuh, SIEM, log analysis, threat detection, incident response |
-| Assessment tools | Wireshark, Nmap, Metasploit, vulnerability assessment tools (authorized lab use only) |
-| Cloud | AWS IAM security, Oracle Cloud Infrastructure |
-| Programming | Python, security automation |
-| AI security | LLM security testing, prompt injection and jailbreak evaluation, OWASP LLM Top 10 |
+</div>
 
-![Splunk](https://img.shields.io/badge/Splunk-0d1117?style=flat-square&logo=splunk&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-0d1117?style=flat-square)
-![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=flat-square)
-![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=flat-square)
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-0d1117?style=flat-square&logo=cisco&logoColor=white)
+## Profile Summary
 
-## Featured Projects
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h4>Target roles</h4><p>Network Security, SOC Analyst, Blue Team, Cloud Security, Network Engineering (internship and entry level)</p></td>
+<td width="33%" valign="top"><h4>Core strengths</h4><p>Cisco routing and switching, SIEM log analysis, AWS IAM security, Python automation</p></td>
+<td width="33%" valign="top"><h4>Working style</h4><p>Documented, reproducible lab projects with configurations, test steps and evidence</p></td>
+</tr>
+</table>
 
-**[Enterprise IPv4 Network: OSPF and Failover](https://github.com/AmaanaliMotiwala0109/ccna-enterprise-network-ospf)**
-Six-router enterprise topology plus a simulated ISP in Cisco Packet Tracer. OSPF Area 0, VLSM (/27 LANs, /30 links), floating static routes (AD 150), and default-route propagation. In the documented failover test, the R2–R3 link was shut down and traffic continued through R4 with one ping lost.
-`Cisco IOS` `OSPF` `VLSM` `Packet Tracer`
+## Selected Work
 
-**[Enterprise Office Network Design](https://github.com/AmaanaliMotiwala0109/Enterprise-Office-Network-Design)**
-Team project simulating a four-department office network: 802.1Q trunks, inter-VLAN routing on a multilayer switch, DHCP, port security, SSH, and an ACL blocking HR-to-Finance traffic.
-`VLANs` `Inter-VLAN routing` `ACLs` `Port security`
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h4><a href="https://github.com/AmaanaliMotiwala0109/ccna-enterprise-network-ospf">Enterprise IPv4 Network: OSPF and Failover</a></h4>
+<p>Six-router topology with a simulated ISP in Cisco Packet Tracer. OSPF Area 0, VLSM, floating static routes (AD 150) and a documented link-failure test in which traffic rerouted with one ping lost.</p>
+<p><sub>Cisco IOS · OSPF · VLSM · Packet Tracer</sub></p>
+<p><a href="https://github.com/AmaanaliMotiwala0109/ccna-enterprise-network-ospf">View repository</a></p>
+</td>
+<td width="50%" valign="top">
+<h4><a href="https://github.com/AmaanaliMotiwala0109/Enterprise-Office-Network-Design">Enterprise Office Network Design</a></h4>
+<p>Team project: four department VLANs, 802.1Q trunks, inter-VLAN routing, DHCP, port security, SSH and an ACL that blocks HR-to-Finance traffic.</p>
+<p><sub>VLANs · ACLs · Port security · SSH</sub></p>
+<p><a href="https://github.com/AmaanaliMotiwala0109/Enterprise-Office-Network-Design">View repository</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h4><a href="https://github.com/AmaanaliMotiwala0109/cloud-security-policy-analyzer">Cloud Security Policy Analyzer</a></h4>
+<p>Python CLI that scans local AWS IAM policy files for wildcard actions, privilege-escalation actions, resource wildcards and missing conditions, with severity ratings and remediation guidance.</p>
+<p><sub>Python · AWS IAM · Security automation</sub></p>
+<p><a href="https://github.com/AmaanaliMotiwala0109/cloud-security-policy-analyzer">View repository</a></p>
+</td>
+<td width="50%" valign="top">
+<h4><a href="https://github.com/AmaanaliMotiwala0109/RedLens-LLM-Security">RedLens: LLM Security Framework</a></h4>
+<p>Python and Streamlit framework that tests a local Llama 3 model through Ollama for jailbreaks and prompt injection, maps results to the OWASP LLM Top 10 and produces PDF reports.</p>
+<p><sub>Python · Ollama · Streamlit · OWASP LLM Top 10</sub></p>
+<p><a href="https://github.com/AmaanaliMotiwala0109/RedLens-LLM-Security">View repository</a></p>
+</td>
+</tr>
+</table>
 
-**[Cloud Security Policy Analyzer](https://github.com/AmaanaliMotiwala0109/cloud-security-policy-analyzer)**
-Python CLI that scans local AWS IAM policy JSON files for wildcard actions, privilege-escalation actions, actions allowed on all resources, and missing Condition blocks, with severity-rated output and sample policies.
-`Python` `AWS IAM` `Security automation`
+## Technical Toolkit
 
-**[RedLens: LLM Security Framework](https://github.com/AmaanaliMotiwala0109/RedLens-LLM-Security)**
-Python and Streamlit framework that runs an adversarial prompt dataset against a local Llama 3 model through Ollama, classifies responses with heuristics, maps results to the OWASP LLM Top 10, and generates PDF reports. The documented run covers 1,320 evaluations of one model configuration, so results should not be generalized to other models.
-`Python` `Ollama` `Streamlit` `OWASP LLM Top 10`
+<table width="100%">
+<tr>
+<td width="28%" valign="top"><strong>Networking</strong></td>
+<td width="72%" valign="top">Cisco Packet Tracer, TCP/IP, VLANs, OSPF, VLSM, ACLs, DHCP, SSH, routing troubleshooting</td>
+</tr>
+<tr>
+<td valign="top"><strong>Security operations</strong></td>
+<td valign="top">Splunk, Wazuh, SIEM, log analysis, threat detection, incident response</td>
+</tr>
+<tr>
+<td valign="top"><strong>Assessment tools</strong></td>
+<td valign="top">Wireshark, Nmap, Metasploit, vulnerability assessment tools (authorized lab use only)</td>
+</tr>
+<tr>
+<td valign="top"><strong>Cloud</strong></td>
+<td valign="top">AWS IAM security, Oracle Cloud Infrastructure</td>
+</tr>
+<tr>
+<td valign="top"><strong>Programming</strong></td>
+<td valign="top">Python, security automation</td>
+</tr>
+<tr>
+<td valign="top"><strong>AI security</strong></td>
+<td valign="top">LLM security testing, prompt injection and jailbreak evaluation</td>
+</tr>
+</table>
 
-## Certifications and Digital Badges
+## Credentials
 
-**Certifications**
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h4>Certifications</h4>
+<p>AWS Certified Cloud Practitioner (Amazon Web Services)<br />Certified SOC Analyst, CSA (EC-Council)<br />Oracle Cloud Infrastructure, 2025 (Oracle)</p>
+</td>
+<td width="50%" valign="top">
+<h4>Digital badges and training</h4>
+<p>CCNA digital badge (Cisco)<br />Network Security Fundamentals (Palo Alto Networks)<br />SOC Level 1 learning path (TryHackMe)</p>
+</td>
+</tr>
+</table>
 
-| Credential | Issuer |
-|:--|:--|
-| AWS Certified Cloud Practitioner (CLF-C02) | Amazon Web Services |
-| Certified SOC Analyst (CSA) | EC-Council |
-| Oracle Cloud Infrastructure (2025) | Oracle |
+<!-- TODO before publishing: link each credential to its public verification page (Credly, AWS, EC-Council, Oracle, Cisco) and replace "Oracle Cloud Infrastructure, 2025" with the exact credential name. Remove anything you cannot verify. -->
 
-**Digital badges and training**
+## Hands-on Labs and Experience
 
-| Credential | Issuer |
-|:--|:--|
-| CCNA digital badge | Cisco |
-| Network Security Fundamentals | Palo Alto Networks |
-| SOC Level 1 learning path | TryHackMe |
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h4>Labs</h4>
+<p>SOC Simulation Lab: threat detection and SIEM investigations with Splunk<br />TryHackMe SOC Level 1 path: <a href="https://tryhackme.com/p/amaanalimotiwala">profile</a></p>
+<!-- TODO: link the SOC Simulation Lab repository here, or remove the entry until it is public. -->
+</td>
+<td width="50%" valign="top">
+<h4>Experience</h4>
+<p>Cybersecurity Intern, ShadowFox (Sep to Oct 2024): reconnaissance, port scanning and traffic analysis exercises in lab environments, including Wireshark.</p>
+</td>
+</tr>
+</table>
 
-<!-- TODO before publishing: add a public verification link (Credly, AWS, EC-Council, Oracle, Cisco) for each entry and replace "Oracle Cloud Infrastructure (2025)" with the exact credential name. Remove any entry you cannot verify. -->
+## Connect
 
-## Hands-on Labs
+<table width="100%">
+<tr>
+<td width="62%" valign="middle">
+<h4>Open to internships and entry-level roles</h4>
+<p>Network security, SOC and blue team, and cloud security. I am happy to walk through any project, its configurations and its test evidence.</p>
+</td>
+<td width="38%" valign="middle" align="left">
+<a href="https://www.linkedin.com/in/amaanali-motiwala-67208628a/">LinkedIn</a><br />
+<a href="https://tryhackme.com/p/amaanalimotiwala">TryHackMe</a><br />
+<a href="mailto:amaanalimotiwala@gmail.com">amaanalimotiwala@gmail.com</a><br />
+<a href="https://github.com/AmaanaliMotiwala0109?tab=repositories">All repositories</a>
+</td>
+</tr>
+</table>
 
-- **SOC Simulation Lab: Threat Detection with Splunk.** SIEM investigations and detection use cases.
-  <!-- TODO: link the repository here, or remove this entry until it is published. -->
-- **TryHackMe SOC Level 1 learning path.** Guided SOC analyst labs covering SIEM, log analysis, and incident handling. [Profile](https://tryhackme.com/p/amaanalimotiwala)
-
-<!-- Uncomment after the repository is public and the README states what has been validated:
-- **[Windows Detection Engineering Lab](https://github.com/AmaanaliMotiwala0109/windows-detection-engineering-lab)** (in progress). Sigma rules mapped to MITRE ATT&CK, converted to Splunk SPL, with CI linting.
--->
-
-## GitHub Overview
-
-| Repository | Focus | Evidence in the repository |
-|:--|:--|:--|
-| [ccna-enterprise-network-ospf](https://github.com/AmaanaliMotiwala0109/ccna-enterprise-network-ospf) | Routing and resilience | Device configs, addressing plan, topology, failover test screenshots |
-| [Enterprise-Office-Network-Design](https://github.com/AmaanaliMotiwala0109/Enterprise-Office-Network-Design) | Switching and access control | Packet Tracer file, topology, device configs, verification commands |
-| [cloud-security-policy-analyzer](https://github.com/AmaanaliMotiwala0109/cloud-security-policy-analyzer) | Cloud security (AWS IAM) | Python source, sample policies, sample output |
-| [RedLens-LLM-Security](https://github.com/AmaanaliMotiwala0109/RedLens-LLM-Security) | AI security | Dataset, metrics tests, dashboard, PDF report |
-
-[Browse all repositories](https://github.com/AmaanaliMotiwala0109?tab=repositories)
-
-## Contact
-
-- LinkedIn: [amaanali-motiwala](https://www.linkedin.com/in/amaanali-motiwala-67208628a/)
-- TryHackMe: [amaanalimotiwala](https://tryhackme.com/p/amaanalimotiwala)
-- Email: [amaanalimotiwala@gmail.com](mailto:amaanalimotiwala@gmail.com)
-
-All security testing in my projects is performed in controlled lab environments or on systems I own.
+<p align="center"><sub>All security testing in these projects was performed in controlled lab environments or on systems I own.</sub></p>
